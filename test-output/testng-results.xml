@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-04T14:58:30Z" name="Default suite" finished-at="2020-10-04T14:58:49Z" duration-ms="18462">
+    <groups>
+    </groups>
+    <test started-at="2020-10-04T14:58:30Z" name="Default test" finished-at="2020-10-04T14:58:49Z" duration-ms="18462">
+      <class name="tests.TestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:30Z" name="setup" finished-at="2020-10-04T14:58:34Z" duration-ms="3397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AutomateCheckBox()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:34Z" name="AutomateCheckBox" finished-at="2020-10-04T14:58:36Z" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomateCheckBox -->
+        <test-method signature="AutomateRadioButton()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:36Z" name="AutomateRadioButton" finished-at="2020-10-04T14:58:37Z" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomateRadioButton -->
+        <test-method signature="DatePicker()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:37Z" name="DatePicker" finished-at="2020-10-04T14:58:38Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatePicker -->
+        <test-method signature="DropDown()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:38Z" name="DropDown" finished-at="2020-10-04T14:58:38Z" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDown -->
+        <test-method signature="fileUpload()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:38Z" name="fileUpload" finished-at="2020-10-04T14:58:39Z" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUpload -->
+        <test-method signature="fullForm()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:39Z" name="fullForm" finished-at="2020-10-04T14:58:41Z" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullForm -->
+        <test-method signature="javascriptModal()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:41Z" name="javascriptModal" finished-at="2020-10-04T14:58:41Z" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javascriptModal -->
+        <test-method signature="switchToActiveWindow()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:41Z" name="switchToActiveWindow" finished-at="2020-10-04T14:58:42Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToActiveWindow -->
+        <test-method signature="switchToAlert()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:42Z" name="switchToAlert" finished-at="2020-10-04T14:58:43Z" duration-ms="1409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToAlert -->
+        <test-method signature="testAutocomplete()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:43Z" name="testAutocomplete" finished-at="2020-10-04T14:58:46Z" duration-ms="2530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutocomplete -->
+        <test-method signature="testKeyBoardMouse()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:46Z" name="testKeyBoardMouse" finished-at="2020-10-04T14:58:47Z" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKeyBoardMouse -->
+        <test-method signature="testScroll()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:47Z" name="testScroll" finished-at="2020-10-04T14:58:48Z" duration-ms="1622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScroll -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.TestClass@6fa34d52]" started-at="2020-10-04T14:58:48Z" name="teardown" finished-at="2020-10-04T14:58:49Z" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
